@@ -21,7 +21,7 @@ I focus on maintainable architecture, improving developer experience and efficie
   - 📋 As a consultant I usually:
     - 🤔 Perform whole project code reviews and provide clients with practical recommendations of things they can do to improve their team efficiency and satisfaction (through better dev experience and automation)
     - 👥 Help establish best practices and provide architecture recommendation
-    - 🛠️ Design flexible & pragmatic solutions for hard problems
+    - 🛠️ Design and implement flexible & pragmatic solutions for hard problems
   - 🧙 A lot more...
 
 ## Talking with me
