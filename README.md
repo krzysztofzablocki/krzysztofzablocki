@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**krzysztofzablocki/krzysztofzablocki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an iOS Engineer (Lead @ NYTimes)
+Outside of regular app development I've spend last decade working on creating tools, ideas and libraries that make life of fellow Cocoa engineers easier.
 
-Here are some ideas to get you started:
+## Community work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🗣 I've done talks about iOS topics [at over 50 conferences around the world](http://merowing.info/speaking/). My [talk about good iOS architecture](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/) is the most viewed iOS talk in the world
+ - 📝 I blog about programming [here](http://merowing.info)
+ - 💻 I'm the author of [Sourcery](https://github.com/krzysztofzablocki/Sourcery), a tool used by more than 40 000 apps which extends Swift language with metaprogramming/codegen abilities
+ - 💻 I've also created a lot of other popular libraries and tools like [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker), [Difference](https://github.com/krzysztofzablocki/Difference) or [FileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers)
+ - In total my open source powers up more than 70 000 apps
+
+## My expertise
+
+I focus on maintainable architecture, improving developer experience and efficency by:
+  - 🤔 Designing flexible architecture that can be easily maintained
+  - ⚙️ Creating automation for common code tasks and workflows
+  - 👥 Establishing best practices for architecture, testing and workflows
+  - 📋 As consultant I usually:
+    - 🤔 Perform whole project code reviews and provide clients with practical recommendations of things they can do to improve their team efficency and satisfaction (through better dev experience and automation)
+    - 👥 Help establish best practices and provide architecture recommendation
+    - 🛠️ Design flexible & pragmatic solutions for hard problems
+  - 🧙 A lot more...
+
+## Talking with me
+
+- 🐦 My twitter: [@merowing_](https://twitter.com/merowing_)
+- 💬 Pronouns: He/Him
+
+You can learn more about me and my past experience [on my blog](http://merowing.info/hire)
