@@ -9,7 +9,7 @@ Outside of regular app development I've spent last decade working on creating to
  - 📝 I blog about programming [here](http://merowing.info)
  - 💻 I'm the author of [Sourcery](https://github.com/krzysztofzablocki/Sourcery), a tool used by more than 40 000 apps that extends Swift language with metaprogramming/codegen abilities
  - 💻 I've also created a lot of other popular libraries and tools like [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker), [Difference](https://github.com/krzysztofzablocki/Difference) or [FileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers)
- - In total my open-source powers up more than 70 000 apps
+ - 💻 In total my open-source projects power up more than 70 000 apps
 
 ## My expertise
 
