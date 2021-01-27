@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am an iOS Engineer (Lead @ NYTimes)
+
 Outside of regular app development I've spent last decade working on creating tools, ideas, and libraries that make the life of fellow Cocoa engineers easier.
 
 ## Community work
