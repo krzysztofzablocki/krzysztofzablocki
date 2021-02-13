@@ -6,7 +6,7 @@ Outside of regular app development I've spent last decade working on creating to
 
 ## Community work
 
- - 🗣  I've done talks about iOS topics [at over 50 conferences & meetups around the world](http://merowing.info/speaking/). My [talk about good iOS architecture](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/) is the most viewed iOS talk in the world
+ - 🗣  I've done talks about iOS topics [at over 50 conferences & meetups around the world](http://merowing.info/speaking/). My [talk about good iOS architecture](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/) is of the most viewed iOS talks in the world
  - 📝  I blog about programming [here](http://merowing.info)
  - 💻  I'm the author of [Sourcery](https://github.com/krzysztofzablocki/Sourcery), a tool used by more than 40 000 apps that extends Swift language with metaprogramming/codegen abilities
  - 💻  I've also created a lot of other popular libraries and tools like [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker), [Difference](https://github.com/krzysztofzablocki/Difference) or [FileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers)
