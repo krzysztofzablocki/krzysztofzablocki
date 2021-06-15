@@ -29,4 +29,4 @@ I focus on maintainable architecture, improving developer experience and efficie
 - 🐦  My twitter: [@merowing_](https://twitter.com/merowing_)
 - 💬  Pronouns: He/Him
 
-You can learn more about me and my past experience [on my blog](http://merowing.info/hire)
+You can learn more about me and my past experience [on my blog](http://merowing.info)
