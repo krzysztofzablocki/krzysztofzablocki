@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am an iOS Engineer (Lead @ NYTimes)
+I am a Principal Swift Engineer, currently breaking things at [The Browser Company](thebrowser.company).
+
+In the past I used to lead iOS at [The New York Times](https://www.nytimes.com), worked on apps like [Headspace](https://headspace.com) and made my own indie apps like [Foldify](foldifyapp.com).
 
 Outside of regular app development I've spent last decade working on creating tools, ideas, and libraries that make the life of fellow Cocoa engineers easier.
 
