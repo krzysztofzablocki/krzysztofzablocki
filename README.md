@@ -14,6 +14,8 @@ Outside of regular app development I've spent last decade working on creating to
  - 💻  I've also created a lot of other popular libraries and tools like [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker), [Difference](https://github.com/krzysztofzablocki/Difference) or [FileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers)
  - 💻  In total my open-source projects power up more than 80 000 apps
 
+[You can sponsor my work and get premium content at my blog](https://www.merowing.info/membership)
+
 ## My expertise
 
 I focus on maintainable architecture, improving developer experience and efficiency by:
@@ -31,4 +33,4 @@ I focus on maintainable architecture, improving developer experience and efficie
 - 🐦  My twitter: [@merowing_](https://twitter.com/merowing_)
 - 💬  Pronouns: He/Him
 
-You can learn more about me and my past experience [on my blog](http://merowing.info)
+You can learn more about me and my past experience [on my blog](https://www.merowing.info/membership)
