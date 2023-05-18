@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Principal engineer and creator of award-winning apps, and tools that are trusted by over 80,000 teams—including industry leaders Apple, Disney, and Airbnb.
+I am Principal engineer and creator of apps and tools that are trusted by over 80,000 teams—including industry leaders Apple, Disney, and Airbnb.
 
 [🚀 **I'm available for consulting and speaking engagements.** Feel free to reach out to me to discuss opportunities.](https://www.merowing.info/consulting)
 
