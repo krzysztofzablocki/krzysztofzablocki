@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I am a Principal Swift Engineer, currently working at [The Browser Company](https://thebrowser.company), where I enjoy breaking things. 
-
-I specialize in iOS/Swift development and have a strong track record of creating tools, ideas, and libraries to improve the lives of fellow Cocoa engineers.
+I am Principal engineer and creator of award-winning apps, and tools that are trusted by over 80,000 teams—including industry leaders Apple, Disney, and Airbnb.
 
 [🚀 **I'm available for consulting and speaking engagements.** Feel free to reach out to me to discuss opportunities.](https://www.merowing.info/consulting)
 
-In the past, I led iOS development at [The New York Times](https://www.nytimes.com), worked on apps such as [Headspace](https://headspace.com), and created my own indie apps like [Foldify](http://foldifyapp.com).
+In the past, I led iOS development at [The New York Times](https://www.nytimes.com), worked on apps such as [Headspace](https://headspace.com), [The Browser Company](https://thebrowser.company), and created my own indie apps like [Foldify](http://foldifyapp.com).
 
 ## Community Work
 
