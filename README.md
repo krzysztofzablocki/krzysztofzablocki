@@ -2,6 +2,8 @@
 
 I am Principal engineer and creator of apps and tools that are trusted by over 80,000 teams—including industry leaders Apple, Disney, and Airbnb.
 
+[I've just released a video course that you can join if you want to save lots of time creating apps for Apple platforms.](https://swiftystack.com/)
+
 [🚀 **I'm available for consulting and speaking engagements.** Feel free to reach out to me to discuss opportunities.](https://www.merowing.info/consulting)
 
 In the past, I led iOS development at [The New York Times](https://www.nytimes.com), worked on apps such as [Headspace](https://headspace.com), [The Browser Company](https://thebrowser.company), and created my own indie apps like [Foldify](http://foldifyapp.com).
